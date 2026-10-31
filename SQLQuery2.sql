@@ -1,0 +1,2 @@
+﻿ALTER TABLE dbo.Appointments
+ALTER COLUMN AICategory NVARCHAR(MAX);
